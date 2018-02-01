@@ -47,7 +47,7 @@ const UINT  TILE_MAP_HEIGHT = 20;           // height of tile map in tiles
 											// graphic images
 const char TILE_TEXTURES[] = "pictures\\tiles.png";         // tiles
 const char OBJECT_TEXTURES[] = "pictures\\textures.png";    // objects
-const char MENU_IMAGE[] = "pictures\\menu.png";     // menu texture
+const char MENU_IMAGE[] = "pictures\\ArtemisGameMenu.png";     // menu texture
 
 													// audio files required by audio.cpp
 													// WAVE_BANK must be location of .xwb file.
